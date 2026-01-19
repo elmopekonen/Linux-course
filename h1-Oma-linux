@@ -33,8 +33,20 @@
 - 13:34 Valitsin "I accept terms of the license agreement ja klikkasin next - Onnistunut
 - 13:35 Klikkasin next - Onnistunut
 - 13:37 Varmistin, että kaikki internetissä olevat sovellukset ovat tallentaneet. Installer ilmoitti netin katkeamisesta - Onnistunut
+- 13:38 Klikkasin "Yes" - Onnistunut 
+- 13:38 Klikkasin "Yes" - Onnistunut 
+- 13:38 Klikkasin "Next" - Onnistunut
+- 13:38 Klikkasin "Install" - Onnistunut 
+- 13:41 Klikkasin "Finish" - Onnistunut
+- 13:51 Oracle VirtualBox Managerissa klikkasin "new" ja täytin ohjeiden mukaisesti tarvittavat tiedot. Name: DebianElmoPekonenCom,
+OS: Linux, Version: Debian (64-bit), Memory Size: 4000MB ja klikkasin "finish". (HOX! Kuvat vanhentuneet ja en löytänyt tarkkaa 
+"Hard disk" kohtaa vstaavilla vaihtoehdoilla. - Onnistunut
+- 13:57 Klikkasin "Start". No bootable medium found!- ilmoituslaatikko tuli näkyville- Epäonnistunut
 - 
-
-
-
+- 
+- 
+- 
+- 
+- 
+- 
 

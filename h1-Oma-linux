@@ -16,7 +16,25 @@
 
 - ÄLÄ TEE SEURAAVIA: Sepitä tai plagioi.
 
-#Lähde
+##Lähde
 
 - Karvinen, Tero 2006, Raportin kirjoittaminen: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
+
+# h1 Oma Linux
+## Tein harjoituksen Maanantaina 2026-01-19 kotona. Koneena oli Asus Vivobook 15.
+
+- 13:12 Aloitin työskentelyn ja avasin Install Debian On Virtualbox- sivun ja aloin lukemaan ohjeita - Onnistunut
+- 13:14 Yrititin avata linkin "debian-live-12.6.0-amd64-xfce.iso", mutta sivu ei auennut - Epäonnistunut
+- 13:18 Yritin avata mirrorin 2 ja 3. Mirror 3 toimi - Onnistunut
+- 13:19 Etsin listalta "debian-live-12.6.0-amd64-xfce.iso" ja klikkasin sitä. - Onnistunut
+- 13:29 Avasin "virtualbox.org/wiki/Downloads" ja klikkasin Windows host- Onnistunut
+- 13:33 Avasin Oracle VirtualBox 7.2.4 Installerin - Onnistunut
+- 13:34 Klikkasin next - Onnistunut
+- 13:34 Valitsin "I accept terms of the license agreement ja klikkasin next - Onnistunut
+- 13:35 Klikkasin next - Onnistunut
+- 13:37 Varmistin, että kaikki internetissä olevat sovellukset ovat tallentaneet. Installer ilmoitti netin katkeamisesta - Onnistunut
+- 
+
+
+
 

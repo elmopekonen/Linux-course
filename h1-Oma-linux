@@ -44,3 +44,8 @@ OS: Linux, Version: Debian (64-bit), Memory Size: 4000MB ja klikkasin "finish". 
 - 13:57 Klikkasin "Start". No bootable medium found!- ilmoituslaatikko tuli näkyville- Epäonnistunut
 - 14:33 Tein latasin "debian-live-12.6.0-amd64-xfce.iso" uudestaan, mutta mikään muu kuin mirror kolme ei auennut, joten tein latauksen samalla tavalla. Yritin lukea
 ohjeita lisää, mutta en ymmärtänyt mitä minun olisi pitänyt tehdä. - Epäonnistunut
+
+# Lähteet
+Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/
+Cedia: https://mirror.cedia.org.ec/debian-cd/12.6.0-live/amd64/iso-hybrid/
+Virtualbox: https://www.virtualbox.org/wiki/Downloads

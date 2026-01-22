@@ -45,6 +45,14 @@ OS: Linux, Version: Debian (64-bit), Memory Size: 4000MB ja klikkasin "finish". 
 - 14:33 Tein latasin "debian-live-12.6.0-amd64-xfce.iso" uudestaan, mutta mikään muu kuin mirror kolme ei auennut, joten tein latauksen samalla tavalla. Yritin lukea
 ohjeita lisää, mutta en ymmärtänyt mitä minun olisi pitänyt tehdä. - Epäonnistunut
 
+#Raportin jatko
+## Tein harjoituksen Tiistaina 2026-01-20. Koneena oli Asus Vivobook 15.
+- 14:10 Latasin "debian-live-12.6.0-amd64-xfce.iso" kurssilaisen lähettämästä linkistä ja liitin sen ladatuista tiedostoista storagen kohdalle. - Onnistui
+<img width="942" height="746" alt="storage" src="https://github.com/user-attachments/assets/1fb29c67-9774-43ff-8c3e-01df8e56be46" />
+- 14:15 Painoin start ja seurasin ohjeita ja tein jokaisen testin todentaakseni, että kaikki on asentunut oikein. - Onnistui
+- 14:20 Reeboottasin ohjelman ja aloin täyttämään tietoja ohjeiden mukaisesti. - Onnistui
+- 14:30 Olin saanut täytettyä tiedot ja kaikki toimii - Onnistui
+
 # Lähteet
 Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/
 Cedia: https://mirror.cedia.org.ec/debian-cd/12.6.0-live/amd64/iso-hybrid/

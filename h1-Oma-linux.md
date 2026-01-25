@@ -55,7 +55,11 @@ ohjeita lisää, mutta en ymmärtänyt mitä minun olisi pitänyt tehdä. - Epä
 <img width="1081" height="805" alt="image" src="https://github.com/user-attachments/assets/68362744-5df6-4365-844a-2752ff04420a" />
 - 14:30 Valitsin partionin methodiksi: guided - use entire disk ja seuraavissi valikoissa valitsin ainoan vastauksen. Install the system näkymä tuli esiin. - Onnistui
 <img width="1075" height="798" alt="image" src="https://github.com/user-attachments/assets/64bc2152-3fe9-4a5c-b757-847b9f43206d" />
-- 
+- 14:45 Fiinish installation - Onnistui
+- 14:50 testasin toimiiko netti ja terminal - Onnistui
+<img width="1281" height="793" alt="image" src="https://github.com/user-attachments/assets/a426574c-b6a8-47c8-91d1-cf3b11a53567" />
+<img width="1282" height="802" alt="image" src="https://github.com/user-attachments/assets/2249a5a1-ff5b-48a4-ad84-d36fc77189dc" />
+- 15:00 Asennus onnistunut.
 
 # Lähteet
 Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/

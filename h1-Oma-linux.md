@@ -49,9 +49,13 @@ ohjeita lisää, mutta en ymmärtänyt mitä minun olisi pitänyt tehdä. - Epä
 ## Tein harjoituksen Tiistaina 2026-01-20. Koneena oli Asus Vivobook 15.
 - 14:10 Latasin "debian-live-12.6.0-amd64-xfce.iso" kurssilaisen lähettämästä linkistä ja liitin sen ladatuista tiedostoista storagen kohdalle. - Onnistui
 <img width="942" height="746" alt="storage" src="https://github.com/user-attachments/assets/1fb29c67-9774-43ff-8c3e-01df8e56be46" />
-- 14:15 Painoin start ja seurasin ohjeita ja tein jokaisen testin todentaakseni, että kaikki on asentunut oikein. - Onnistui
-- 14:20 Reeboottasin ohjelman ja aloin täyttämään tietoja ohjeiden mukaisesti. - Onnistui
-- 14:30 Olin saanut täytettyä tiedot ja kaikki toimii - Onnistui
+- 14:15 Valitsin real installerin ja aloin täyttämään tietoja. Select language = Eglish, Location: Other - Europe - Finland., configure locales: en-US.UTF-8, configure the keyboard= finnish. - Onnistui
+<img width="1081" height="807" alt="image" src="https://github.com/user-attachments/assets/0b5fe26e-567e-43f2-aaea-3e290844da90" />
+- 14:20 Tein itselleni salasanan ja käyttäjä tunnukset. - Onnistui
+<img width="1081" height="805" alt="image" src="https://github.com/user-attachments/assets/68362744-5df6-4365-844a-2752ff04420a" />
+- 14:30 Valitsin partionin methodiksi: guided - use entire disk ja seuraavissi valikoissa valitsin ainoan vastauksen. Install the system näkymä tuli esiin. - Onnistui
+<img width="1075" height="798" alt="image" src="https://github.com/user-attachments/assets/64bc2152-3fe9-4a5c-b757-847b9f43206d" />
+- 
 
 # Lähteet
 Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/

@@ -1,4 +1,5 @@
 # h2 komentaja pingviini
+## Tein harjoituksen kotona 24.01.-26.01.2026. Koneena oli Asus Vivobook 15.
 ## Command line basics revisited - tiivistelmä
 - PWD eli print working directory tekee nimensä mukaisen komennon.
 - '#' käytetään kommentoimiseen
@@ -54,3 +55,9 @@ Lähteet: https://github.com/rothgar/awesome-tuis
 11:33 Raudan analysointi:
 
 System on Virtualbox eli virtuaalikone, ei fyysinen kone. Muistin koot ovat minun asettamia arvoja koneen asennusvaiheessa. 67GB on minun asettama kiintolevy koko. Prosessorina toimii minun fyysisen koneen prosessori, koska virtuaali kone tarvitsee prosessorin toimiakseen isäntäkoneella. Multimedia viittaa virtuaalikoneen äänen kuulumiseen mikä mahdollistaa esim. videoiden mahdollisen pyörittämisen. 
+
+# Lähteet
+
+https://terokarvinen.com/linux-palvelimet/
+https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+https://github.com/rothgar/awesome-tuis

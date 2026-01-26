@@ -58,6 +58,8 @@ System on Virtualbox eli virtuaalikone, ei fyysinen kone. Muistin koot ovat minu
 
 # Lähteet
 
-https://terokarvinen.com/linux-palvelimet/
-https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
-https://github.com/rothgar/awesome-tuis
+Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/
+
+Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+
+arimxyer and claude, 2026 Awesome TUIs: https://github.com/rothgar/awesome-tuis

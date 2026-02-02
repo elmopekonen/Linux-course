@@ -1,4 +1,5 @@
-#h3 Hello Web Server
+# h3 Hello Web Server
+## Tein harjoituksen kotona 1.2.-2.2.2026. Koneena oli Asus Vivobook 15.
 ## x) Lue ja tiivistä
 - IP- base virtual hosting käyttää IP osoitetta määrittääkseen mikä virtual host palvellaan.
 - Name-based virtual hosting luottaa siihen, että asiakasohjelma ilmoittaa isätänimen osana HTTP-otsikoita
@@ -73,3 +74,14 @@ Nanoon syöttämäni teksti
 
 
 Lähde: https://developer.ibm.com/articles/what-is-curl-command/
+
+# Lähteet
+
+Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/
+
+Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
+
+Simran Kumari, 2024 Complete Guide to Apache Logs: https://signoz.io/guides/apache-log/
+
+IBM, 2024 What is cURL and how does it relate to APIs?: https://developer.ibm.com/articles/what-is-curl-command/
+

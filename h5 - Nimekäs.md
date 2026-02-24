@@ -60,3 +60,5 @@ Host näyttää vähemmän tietoja kuin dig. Dig toimii paremmin troubleshooting
 
 # Lähteet
 Geeks for Geeks: https://www.geeksforgeeks.org/linux-unix/dig-command-in-linux-with-examples/
+
+Tero Karvinen, 2024 Linux palvelimet: https://terokarvinen.com/linux-palvelimet/
